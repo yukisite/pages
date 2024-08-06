@@ -311,7 +311,7 @@ h2{
 	margin-left:-35px;
 }
 .contents{
-	background-image:url(images/back_gold.png);
+	background-image:url("https://github.com/yukisite/pages/blob/main/back_gold.png?raw=true");
 	background-size: cover;
 	width:100%;
 	height:745px;
