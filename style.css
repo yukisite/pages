@@ -124,7 +124,7 @@ main{
 }
 
 main{
-	background-image:url(images/gurade-back.png);
+	background-image:url("https://github.com/yukisite/pages/blob/main/gurade-back.png?raw=true");
 	background-size: cover;
 
 }
